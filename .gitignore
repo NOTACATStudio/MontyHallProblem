@@ -1,0 +1,80 @@
+# Visual Studio left-overs
+*.suo        # 'user' settings like 'which file is open in Visual Studio'
+*.ncb        # Used for debugging
+*.user
+*.ccscc      # Used for versioning
+*.cache
+*.vs/
+./.vs/
+./.idea/
+
+applicationhost.config
+
+# Editor left-overs
+*.sublime-workspace
+*~           # (x)emacs
+*.bak        # Windows related
+\#*\#        # (x)emacs
+*.orig       # Own usage
+
+# Compiled files
+*/bin/
+*/obj/
+*/Obj/       # git is case sensitive
+*/Generated_Code/
+PrecompiledWeb
+*ClientBin
+*.[Oo]bj
+*.user
+*.aps
+*.pch
+*.sublime-workspace
+*.vspscc
+*.vssscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.[Cc]ache
+*.ilk
+*.log
+*.lib
+*.sbr
+*.sdf
+*.datasource
+ipch/
+obj/
+[Bb]in
+[Dd]ebug*/
+[Rr]elease*/
+*.orig
+*.idea/
+
+
+
+App_Data/
+# Windows left-overs
+Thumbs.db    # Having images in the source tree generates those files in Explorer
+
+# Resharper Files
+_ReSharper.*
+*.resharper.user
+
+packages/nHibernateProfiler/log.txt.*
+testReports/
+
+packages\nHibernateProfiler*/
+packages\nHibernateProfiler*/
+*.psess
+packages/nHibernateProfiler/log.txt
+
+#NCrunch files
+*.ncrunchsolution
+.v2.ncrunchproject
+*.v2.ncrunchproject
+_NCrunch_CSW/
+/packages/NServiceBus.3.3.4/tools
+/packages/BenefitsSummaryGenerator.Messages.2.0.242
